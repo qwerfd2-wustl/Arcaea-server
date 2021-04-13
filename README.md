@@ -1,6 +1,6 @@
 # Arcaea-server
 一个微型的Arcaea本地服务器  A small local server for Arcaea
-一个备份 原作者MSth-Lost A Backup - Original author：MSth-Lost
+##一个备份 原作者MSth-Lost A Backup - Original author：MSth-Lost
 https://github.com/Lost-MSth/Arcaea-server
 
 ## 简介 Introduction
