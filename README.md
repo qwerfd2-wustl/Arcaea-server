@@ -1,5 +1,7 @@
 # Arcaea-server
 一个微型的Arcaea本地服务器  A small local server for Arcaea
+一个备份 原作者MSth-Lost A Backup - Original author：MSth-Lost
+https://github.com/Lost-MSth/Arcaea-server
 
 ## 简介 Introduction
 这是基于Python以及Flask的微型本地Arcaea服务器，可以模拟游戏的主要功能。这可能是我第一次写这种大程序，若有不妥之处，敬请谅解。  
